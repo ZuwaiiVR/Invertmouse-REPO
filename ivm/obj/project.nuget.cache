@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2lzGbDguh8Y=",
+  "dgSpecHash": "xNXM5WGx46c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zuwaii\\source\\repos\\ivm\\ivm\\ivm.csproj",
+  "projectFilePath": "C:\\Users\\Zuwaii\\source\\repos\\ivm\\Invertmouse-REPO\\ivm\\ivm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zuwaii\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Zuwaii\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",

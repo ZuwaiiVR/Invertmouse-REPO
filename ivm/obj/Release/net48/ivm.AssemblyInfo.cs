@@ -14,8 +14,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ivm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("My first plugin")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f265c43a66e3f484a74ed4b746512804444f118")]
+[assembly: System.Reflection.AssemblyProductAttribute("Invert Mouse Plugin by Zuwaii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ivm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

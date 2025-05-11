@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace ivm
 {
-    [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
+    [BepInPlugin("InvertMouse", "InvertMouse by Zuwaii", "V1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         internal static new ManualLogSource Logger;
@@ -13,7 +13,7 @@ namespace ivm
         {
             // Plugin startup logic
             Logger = base.Logger;
-            Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
+            Logger.LogInfo($"Plugin InvertMouse is loaded!");
             var harmony = new Harmony("com.zuwaii.semiinputpatch");
             harmony.PatchAll();
             Logger.LogInfo("SemiFunc.InputMouseY patched successfully.");

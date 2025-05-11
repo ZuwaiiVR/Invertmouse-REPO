@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = ivm
-build_property.ProjectDir = C:\Users\Zuwaii\source\repos\ivm\ivm\
+build_property.ProjectDir = C:\Users\Zuwaii\source\repos\ivm\Invertmouse-REPO\ivm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
