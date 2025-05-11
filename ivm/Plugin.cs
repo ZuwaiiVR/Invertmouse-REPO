@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace ivm
 {
-    [BepInPlugin("InvertMouse", "InvertMouse by Zuwaii", "V1.0.0")]
+    [BepInPlugin("InvertMouse", "InvertMouse by Zuwaii", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         internal static new ManualLogSource Logger;
