@@ -1,0 +1,10 @@
+C:\Users\Zuwaii\source\repos\ivm\ivm\bin\Debug\net48\ivm.dll
+C:\Users\Zuwaii\source\repos\ivm\ivm\bin\Debug\net48\ivm.pdb
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.csproj.AssemblyReference.cache
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\MyPluginInfo.cs
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.AssemblyInfoInputs.cache
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.AssemblyInfo.cs
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.csproj.CoreCompileInputs.cache
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.dll
+C:\Users\Zuwaii\source\repos\ivm\ivm\obj\Debug\net48\ivm.pdb
